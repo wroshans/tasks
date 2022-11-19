@@ -1,0 +1,24 @@
+.js-quickedit-main-content{
+    width: auto;
+}
+.path-node{
+    margin: 0 9rem;
+}
+.box-content{
+    height: 5rem;
+    padding: 100px 0;
+    text-align: center;
+}
+.photo-grp-flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.profiles-block{
+    padding-right: 10rem;
+}
+/* .btm-logo-container{
+    position: relative;
+    right: 280px;
+} */
